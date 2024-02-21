@@ -1,0 +1,112 @@
+.btn {
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+    font-size: xx-large;
+    font-family:500px;
+    text-decoration: none;
+    height: 65px;
+    align-items: center;
+    }
+
+.btn a{
+    text-decoration: none;
+    color: white;
+    text-decoration: none;
+    border: 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+.btn a:hover{
+    background: #fff;
+    color: #000;
+}
+
+.active{
+    color: #000;
+}
+
+header{
+    background-image: url(./rose-6799478_1280.jpg);
+    height: 200vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+.apropos a{
+    color: white;
+    text-decoration: none;
+}
+
+.apropos{
+    text-align: center;
+    font-size: 35px;
+}
+
+.bio p{
+    color: white;
+    font-size: 30px;
+}
+
+.travail a{
+    color: white;
+    text-decoration: none;
+}
+
+.travail{
+    text-align: center;
+    font-size: 35px;
+}
+
+.cursus{
+    color: white;
+    font-size: 35px;
+}
+
+.table{
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-shadow: none;
+    text-align: center;
+    border-radius: 15px;
+    text-decoration: none;
+    font-size: xx-large;
+}
+
+.cv{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+.profil{
+    font-size: 35px;
+}
+
+.Contact{
+    color: white;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.num{
+    font-size: 35px;
+}
+
+.tel{
+    font-size: 30px;
+}
+
+.mail{
+    font-size: 30px;
+}
